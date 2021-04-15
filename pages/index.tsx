@@ -85,7 +85,7 @@ export default function Home() {
             </Grid>
             <Grid item sm={6} xs={12}>
               <div>
-                <Image
+                <img
                   className="br"
                   src={"/images/MVIMG_20190212_181647.jpg"}
                   alt="Profile picture"
