@@ -86,7 +86,7 @@ export default function Home() {
             <Grid item sm={6} xs={12}>
               <div>
                 <img
-                  className="br"
+                  className="br large-img"
                   src={"/images/MVIMG_20190212_181647.jpg"}
                   alt="Profile picture"
                   height={500}
