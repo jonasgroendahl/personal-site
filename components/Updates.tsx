@@ -224,8 +224,12 @@ const Updates: React.FC = () => {
             <Typography variant="h5" gutterBottom>
               {item.title}
             </Typography>
-            {item.description.map((text) => (
-              <Typography color="textSecondary" paragraph>
+            {item.description.map((text, i) => (
+              <Typography
+                color="textSecondary"
+                key={`${item.title}_${i}`}
+                paragraph
+              >
                 {text}
               </Typography>
             ))}
