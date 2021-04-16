@@ -87,7 +87,7 @@ export default function Home() {
               <div>
                 <img
                   className="br large-img"
-                  src={"/images/MVIMG_20190212_181647.jpg"}
+                  src={"/images/Webp.net-compress-image.jpg"}
                   alt="Profile picture"
                   height={500}
                   width={600}
