@@ -60,7 +60,10 @@ export default function Home() {
                       }
                     />
                   </ListItemAvatar>
-                  <ListItemText primary="Co founder" secondary="10TEN10" />
+                  <ListItemText
+                    primary="JavaScript (TypeScript) veteran"
+                    secondary="+5 years experience"
+                  />
                 </ListItem>
                 <ListItem>
                   <ListItemAvatar>
