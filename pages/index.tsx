@@ -108,12 +108,13 @@ export default function Home() {
               </Grid>
             ))}
           </Grid>
+          {/*
           <Box mb={3} mt={12}>
             <Typography variant="h6" id="updates">
               Updates
             </Typography>
           </Box>
-          <Updates />
+           <Updates /> */}
           <Box mb={3} mt={12}>
             <Typography variant="h6" id="about">
               About me
